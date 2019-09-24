@@ -1,17 +1,11 @@
-# Flutter Face Detection  
+# Flutter ML Vision  
 ![Image](shots/logo.png)
 
-Flutter Face Detection with Firebase ML Kit and CustomPainter.  
-Read the article on [Medium]()  
+Simple app to demenstrate Firebase ML Vision.
 
-<img src="shots/found_face.jpg"><br />
-
-Made with :heart_eyes: by [Akora-IngDKB](https://github.com/Akora-IngDKB).  
-Follow me on [Twitter](https://twitter.com/AkoraIng_DKB)    
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Contact Me
+- [LinkedIn - Nicholas Mueller](https://www.linkedin.com/in/nicholas-mueller-b12006b6/)
+- [Personal Site - Where I mess around with stuff](https://nightmue.github.io/)
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -20,4 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.  
+samples, guidance on mobile development, and a full API reference.
