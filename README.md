@@ -1,4 +1,4 @@
-# Flutter ML Vision  
+# Flutter & Firebase ML Vision  
 ![Image](shots/logo.png)
 
 Simple app to demenstrate Firebase ML Vision.
